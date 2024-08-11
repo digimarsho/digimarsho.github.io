@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimarsho.github.io/sitemap.xml
